@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+plotly
+fpdf
+pdfplumber
+openpyxl
+xlsxwriter
+pyyaml
+streamlit-authenticator

@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    hernan:
+      email: hernan@example.com
+      name: Hernando
+      password: "1234"
+    admin:
+      email: admin@example.com
+      name: Admin
+      password: "admin123"
+cookie:
+  expiry_days: 30
+  key: "hernaninho_key"
+  name: "hernaninho_cookie"
+preauthorized:
+  emails:
+    - hernan@example.com
